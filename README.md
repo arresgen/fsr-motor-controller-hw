@@ -64,6 +64,6 @@ A KiCad hardware design project featuring an operational amplifier signal condit
 
 ```text
 .
-├── Midterm Project - Op Amp - v2.kicad_sch    # Schematic Source File
-├── Midterm Project - Op Amp - v2.kicad_pcb    # PCB Layout Source File
+├── fsr-motor-controller-hw.kicad_sch    # Schematic Source File
+├── fsr-motor-controller-hw.kicad_pcb    # PCB Layout Source File
 └── README.md                                  # Documentation
